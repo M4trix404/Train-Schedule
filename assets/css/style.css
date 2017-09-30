@@ -1,0 +1,32 @@
+html {
+    height: 100%;
+    background-color: black;
+}
+
+.jumbotron {
+    background-image:url("../images/colorwood.jpg");
+    border-color: black;
+    border-style: double;
+}
+
+.panel-body {
+    background-color: deepskyblue;
+}
+
+h3 {
+    font-style: italic;
+}
+
+body {
+    background-size: default;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: black;
+    padding: 10px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+/* General Settings */
+
